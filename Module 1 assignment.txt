@@ -1,0 +1,8 @@
+1)What is Software?
+Ans:-Software is a set of instructions, data, or programs used to operate computers and execute specific tasks. It is the non-physical component of a computer system that tells the hardware what to do. 
+2)What are the types of Applications?
+Ans:-Applications, or application software, are programs designed to help users perform specific tasks or functions.
+3)What is programing?
+Ans:-Programming is the process of writing instructions (code) that a computer can understand and execute to perform specific tasks. These instructions are written in programming languages, which provide the syntax and structure for developers to communicate with the machine.
+4)What is Python?
+Ans:-Python is a high-level, interpreted programming language known for its simplicity and readability.allowing developers to write clean and efficient code. It's widely used in various fields, from web development to data science and artificial intelligence.
